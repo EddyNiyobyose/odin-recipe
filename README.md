@@ -1,1 +1,1 @@
-# odin-recipe
+In this Recipe project I am going to demonstrate skills I gained from Odin project but in HTML only.
